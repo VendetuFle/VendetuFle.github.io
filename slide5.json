@@ -1,0 +1,10 @@
+{
+    "title": "Team Structure",
+    "type": "table",
+    "data": [
+        ["Department", "Employees"],
+        ["Sales", "50"],
+        ["R&D", "30"],
+        ["Marketing", "20"]
+    ]
+}

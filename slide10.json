@@ -1,0 +1,10 @@
+{
+    "title": "Partnerships",
+    "type": "table",
+    "data": [
+        ["Partner", "Focus Area"],
+        ["TechCorp", "AI"],
+        ["GreenEnergy", "Sustainability"],
+        ["GlobalLogistics", "Supply Chain"]
+    ]
+}
